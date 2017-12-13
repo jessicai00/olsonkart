@@ -52,6 +52,8 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "node scripts/test.js --env=jsdom"
   },
   "jest": {
@@ -104,5 +106,9 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "homepage": "http://jessicai00.github.io/olsonkart",
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
   }
 }
