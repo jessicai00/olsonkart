@@ -1,0 +1,13 @@
+.Header {
+    background: #2295F2;
+}
+
+.Content {
+    background: #fff;
+    height: 140vh;
+}
+
+.Footer {
+    background: #000;
+    height: 35vh;
+}

@@ -1,0 +1,60 @@
+.Login-Left {
+    padding: 100px 20px 20px 250px;
+}
+
+.Login-Right {
+    padding: 70px 250px 50px 20px;
+}
+
+.Login-Title {
+    font-size: 20px;
+    font-family: Arial, HelveticaNeue-Bold;
+}
+
+.Login-Title-Blue { 
+    font-size: 20px;
+    font-family: Arial, HelveticaNeue-Bold;
+    color: #2295F2;
+}
+
+.Login {
+    margin: 20px 0 20px 0;
+    padding: 5px 5px 5px 5px; 
+    border: 1px #ccc solid;
+    border-radius: 3px; 
+}
+
+.LoginForm-Outter {
+    border: 1.5px #ccc solid;
+    border-radius: 4px;    
+}
+
+.LoginForm-Inner {
+    margin: 4px 4px 4px 4px;
+    padding: 20px 20px 20px 20px; 
+    border: 1px #ccc dashed; 
+    border-radius: 4px;       
+}
+
+.LoginForm-Title {
+    font-size: 20px;
+    font-family: Arial, HelveticaNeue-Bold;
+}
+
+.LoginForm-Hr {
+    margin-bottom: 40px;
+}
+
+.LoginForm-Item {
+    margin-bottom: 20px;
+}
+
+.LoginForm-Text-Col {
+    padding-top: 8px;
+}
+
+.LoginForm-Text {
+    font-size: 12px;
+    font-family: Arial, HelveticaNeue-Bold;
+    font-weight: bold;
+}

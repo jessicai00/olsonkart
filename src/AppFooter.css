@@ -1,0 +1,44 @@
+.AppFooter-Title { 
+    font-size: 18px;
+    font-family: Arial, HelveticaNeue-Bold;
+    color: white;
+}
+
+.AppFooter-Title-Blue { 
+    font-size: 18px;
+    font-family: Arial, HelveticaNeue-Bold;
+    color: blue;
+}
+
+.AppFooter-Text-Area {
+    margin-top: 15px; 
+}
+
+.AppFooter-Text {    
+    font-size: 14px;
+    font-family: Arial, HelveticaNeue-Bold;
+    font-style: italic;
+    color: white;
+}
+
+.AppFooter-Text-Link {    
+    font-size: 14px;
+    font-family: Arial, HelveticaNeue-Bold;
+    font-style: italic;
+    text-decoration: underline;
+    display: block;
+    color: white;
+}
+
+.AppFooter-Contact {    
+    margin-bottom: 10px;
+}
+
+.AppFooter-Icon {    
+    cursor: default; 
+}
+
+.AppFooter-Copyright {  
+    align-self: center;
+    color: white;
+}

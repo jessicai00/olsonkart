@@ -1,0 +1,30 @@
+.AppHeader-Title { 
+    font-size: 28px;
+    font-family: Arial, HelveticaNeue-Bold;
+    color: white;
+}
+
+.AppHeader-Menu { 
+    margin-right: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.AppHeader-Menu-Label { 
+    font-size: 14px;
+    font-family: Arial, HelveticaNeue-Bold;
+    color: white;
+    cursor: pointer;
+}
+
+.kart-links{
+    font-size: 13px;
+    color: #fff;
+    font-weight: bold;
+    margin: 0 2px;
+    /* display: inline-block; */
+    padding: 2px 7px;
+    border-radius:5px;
+    background: rgb(29, 166, 245);
+    cursor: pointer;
+ }
